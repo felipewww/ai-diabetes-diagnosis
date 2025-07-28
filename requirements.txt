@@ -8,6 +8,7 @@ numpy
 matplotlib
 jupyter
 seaborn
+imblearn
 
 # necessário para o pandas
 openpyxl
