@@ -9,6 +9,7 @@ matplotlib
 jupyter
 seaborn
 imblearn
+shap
 
 # necessário para o pandas
 openpyxl
