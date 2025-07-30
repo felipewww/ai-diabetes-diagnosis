@@ -15,13 +15,13 @@ $ source .venv/bin/activate
 ```
 
 ### Instalar dependências somente no ENV selecionado
-```
+```bash
 $ pip install -r requirements.txt
 ```
 
 ### Executar jupyter
 ```bash
-jupyter notebook
+jupyter notebook src/model-final.ipynb
 ```
 
 ### PyCharm Plot
